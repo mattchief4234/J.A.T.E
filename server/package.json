@@ -1,13 +1,13 @@
 {
-    "name": "JATE",
+    "name": "Server part to Text Editor",
     "version": "1.0.0",
-    "description": "",
+    "description": "this runs the server that stores the info that is sent to and from the client",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
+    "author": "Matthew Webb",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
